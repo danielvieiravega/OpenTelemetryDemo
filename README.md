@@ -15,3 +15,13 @@ OpenTelemetry is an open-source observability framework that provides APIs, libr
 ## Visualizing telemetry
 
 To visualize the telemetry data, use the [Observability Stack](https://github.com/danielvieiravega/observability-stack)
+
+## Running the Application
+Locally
+1. Run the application:
+```bash
+dotnet run
+```
+2. Access the application:
+
+Navigate to http://localhost:5000 in your web browser.
