@@ -24,4 +24,4 @@ dotnet run
 ```
 2. Access the application:
 
-Navigate to http://localhost:5000 in your web browser.
+Navigate to http://localhost:5285/swagger/index.html in your web browser.
